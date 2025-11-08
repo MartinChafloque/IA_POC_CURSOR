@@ -43,4 +43,3 @@ const RecommendationList = ({ recomendaciones, isLoading, error }) => {
 };
 
 export default RecommendationList;
-

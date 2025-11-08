@@ -158,4 +158,3 @@ const PreferenceForm = ({ onSubmit, isLoading }) => {
 };
 
 export default PreferenceForm;
-

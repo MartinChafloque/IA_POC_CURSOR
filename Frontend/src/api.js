@@ -42,4 +42,3 @@ export const getUserPreferences = async (userId) => {
 };
 
 export default api;
-

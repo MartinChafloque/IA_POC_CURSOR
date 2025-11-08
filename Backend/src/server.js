@@ -51,4 +51,3 @@ app.listen(PORT, () => {
   console.log(`🚀 Servidor corriendo en http://localhost:${PORT}`);
   console.log(`📡 Endpoint de preferencias: http://localhost:${PORT}/api/preferences`);
 });
-
